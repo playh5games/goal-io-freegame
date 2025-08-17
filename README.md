@@ -1,47 +1,25 @@
-<!-- SEO & Structured Data -->
-<meta name="keywords" content="leaderboard football game, fast reflex game, football io game, browser football game, online football competition, free soccer game, Goal.io, Unity WebGL, casual soccer, sports puzzle">
-<meta property="og:title" content="Discover Play Goal.io  – Free Shooter Games Game Online | Play Free Shooter Games Game">
-<meta property="og:image" content="https://playh5games.github.io/goal-io-freegame/icon.jpg">
-<meta property="og:url" content="https://playh5games.github.io/goal-io-freegame/">
-<meta property="og:type" content="website">
-<meta property="og:description" content="Play Goal.io  – Free Shooter Games Game Online – free Shooter Games experience anytime, anywhere!">
-<meta name="twitter:image" content="https://playh5games.github.io/goal-io-freegame/icon.jpg">
-<meta name="twitter:title" content="Join Play Goal.io  – Free Shooter Games Game Online Online | Free to Play">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Play Goal.io  – Free Shooter Games Game Online – free Shooter Games experience anytime, anywhere!">
-<script type="application/ld+json">{"@context": "https://schema.org", "keywords": "leaderboard football game, fast reflex game, football io game, browser football game, online football competition, free soccer game, Goal.io, Unity WebGL, casual soccer, sports puzzle", "operatingSystem": "Any", "genre": "Shooter Games", "name": "Play Goal.io  \u2013 Free Shooter Games Game Online", "publisher": {"@type": "Organization", "name": "GmG Studio"}, "applicationCategory": "Game", "@type": "VideoGame", "gamePlatform": ["Web Browser"], "datePublished": "Aug 5, 2025", "image": "https://playh5games.github.io/goal-io-freegame/icon.jpg", "description": "Play Goal.io  \u2013 Free Shooter Games Game Online \u2013 free Shooter Games experience anytime, anywhere!", "url": "https://playh5games.github.io/goal-io-freegame/"}</script>
-<script type="application/ld+json">{"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What makes Goal.io different from other soccer games?", "acceptedAnswer": {"@type": "Answer", "text": "Goal.io stands out by blending reflex-based goal shooting with a logic sports puzzle format, offering a fast-paced 3-minute match structure perfect for quick play sessions."}}, {"@type": "Question", "name": "Is Goal.io free to play?", "acceptedAnswer": {"text": "Yes, Goal.io is completely free to play on both PC and browser. No downloads or sign-ups are required.", "@type": "Answer"}}, {"acceptedAnswer": {"@type": "Answer", "text": "Simply tap or click to kick the ball into the goal. Use quick reactions and smart aim to outscore opponents before the timer runs out."}, "@type": "Question", "name": "How do you play Goal.io?"}, {"acceptedAnswer": {"@type": "Answer", "text": "Goal.io is a free PC and browser football io game where players have 180 seconds to score as many goals as possible. It combines fast reflex kicking with logic-based sports puzzle gameplay."}, "@type": "Question", "name": "What is Goal.io?"}, {"acceptedAnswer": {"@type": "Answer", "text": "Yes! Goal.io works perfectly on mobile devices with touch controls."}, "@type": "Question", "name": "Can I play Goal.io on mobile?"}, {"name": "Can I play Goal.io without downloading?", "@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "Yes, Goal.io is a browser-based game, so you can play instantly without installing anything."}}, {"@type": "Question", "acceptedAnswer": {"text": "Currently Goal.io is single-player only, but you can compete via the global leaderboard.", "@type": "Answer"}, "name": "Is Goal.io multiplayer?"}], "@context": "https://schema.org"}</script>
-<script type="application/ld+json">{"itemListElement": [{"@type": "ListItem", "name": "Home", "item": "https://play.gmg-studio.com", "position": 1}, {"@type": "ListItem", "name": "Shooter Games", "position": 2, "item": "https://play.gmg-studio.com/genre/shooter-games"}, {"name": "Goal.io", "position": 3, "@type": "ListItem", "item": "https://playh5games.github.io/goal-io-freegame/"}], "@context": "https://schema.org", "@type": "BreadcrumbList"}</script>
-<script type="application/ld+json">{"inLanguage": "en", "keywords": "leaderboard football game, fast reflex game, football io game, browser football game, online football competition, free soccer game, Goal.io, Unity WebGL, casual soccer, sports puzzle", "description": "Goal.io is a free PC/browser football io game where you score as many goals as possible in 180 seconds. Tap to kick, use quick reflexes, and apply smart plays in this mix of reflex shooter and logic-based sports puzzle. No downloads required—just play instantly, climb the leaderboard, and dominate the idle football tournament. Perfect for fans of casual soccer games, time-based goal challenges, and online football competitions. 🚀⚽", "author": {"name": "GmG", "@type": "Organization"}, "headline": "Play Goal.io Free | Best Browser Shooter Games Experience", "@context": "https://schema.org", "name": "Goal.io", "gamePlatform": ["Web Browser"], "@type": "VideoGame", "applicationCategory": "Game", "url": "https://playh5games.github.io/goal-io-freegame/", "datePublished": "Aug 5, 2025", "operatingSystem": "Any", "playMode": "SinglePlayer", "genre": "Shooter Games", "image": "icon.jpg"}</script>
-<script type="application/ld+json">{"potentialAction": {"target": "https://play.gmg-studio.com/search?q={search_term_string}", "@type": "SearchAction", "query-input": "required name=search_term_string"}, "name": "GMG Studio Games", "url": "https://play.gmg-studio.com", "@type": "WebSite", "@context": "https://schema.org"}</script>
-
-
 # 🎮 Goal.io – Free Shooter Games | Play in Browser Now
 
 
 <p align='center'>
-  <a href='https://play.gmg-studio.com/game/550/goalio'>
-    <img src='https://playh5games.github.io/goal-io-freegame/icon.jpg' alt='Goal.io' width='240' style='border-radius:12px; border:4px solid #333;'>
+  <a href='https://playh5games.github.io/goal-io-freegame/play'>
+    <img src='https://gamehtml5.netlify.app/gmg_goal_io/icon.jpg' alt='Goal.io' width='240' style='border-radius:12px; border:4px solid #333;'>
   </a>
   <br>
-  <a href='https://play.gmg-studio.com/game/550/goalio'>
-    <img src='https://img.shields.io/badge/▶%20Try%20It%20Free-blue?style=for-the-badge' alt='try_it_free'>
+  <a href='https://playh5games.github.io/goal-io-freegame/play'>
+    <img src='https://img.shields.io/badge/▶%20Play%20for%20Free%20Online-blue?style=for-the-badge' alt='play_for_free_online'>
   </a>
 </p>
 
-Play Goal.io anytime, anywhere – free in your browser.
+Explore Goal.io – a fun browser game you can play instantly.
 
-[Play more free online games](https://play.gmg-studio.com)
-
-## Why Play Goal.io
-Best for people who love casual gameplay with endless fun.  
-Perfect for fans of quick, casual, and competitive browser games.
+[Play exciting free browser games](https://play.gmg-studio.com)
 
 ## About Goal.io
 
 Goal.io is a free PC/browser football io game where you score as many goals as possible in 180 seconds. Tap to kick, use quick reflexes, and apply smart plays in this mix of reflex shooter and logic-based sports puzzle. No downloads required—just play instantly, climb the leaderboard, and dominate the idle football tournament. Perfect for fans of casual soccer games, time-based goal challenges, and online football competitions. 🚀⚽
 
-Casual and competitive fun
+Fun for all ages
 
 ## Quick Info
 - **Genre:** Shooter Games
@@ -50,30 +28,154 @@ Casual and competitive fun
 - **Tags:** leaderboard football game, fast reflex game, football io game, browser football game, online football competition, free soccer game, Goal.io, Unity WebGL
 
 ## Features
-- Works smoothly on all devices
-- Fully optimized for both desktop and mobile
-- Multiple levels and challenges
-- New content added regularly
+- No download — play instantly in browser
 - Fun and fast-paced gameplay
+- Engage in fast-paced action
+- Real-time multiplayer options
+
+## Why Play Goal.io
+Great for competitive players looking for a quick challenge.  
+Best for people who love casual gameplay with endless fun.  
+Challenging yet fun for all players.
 
 ## Controls
 - WASD Keys: Move
 
-## More Games
-<div style="display:flex;flex-wrap:wrap;justify-content:center;margin:-8px;">
-<div style="box-sizing:border-box;padding:8px;width:25.000000%;max-width:25.000000%;min-width:180px;text-align:center;"><a href="https://play.gmg-studio.com/game/336/inifnite-soccer" style="text-decoration:none;color:inherit;">  <div style="display:inline-block;position:relative;">        <img src="https://yoo82.github.io/action-games/infinite-soccer/logo.avif" alt="Play Inifnite Soccer online"          width="160"          style="display:block;margin:0 auto;border-radius:8px;max-width:100%;height:auto;">  </div>  <div style="font-weight:700;margin-top:6px;              white-space:nowrap;overflow:hidden;text-overflow:ellipsis;              max-width:160px;margin-left:auto;margin-right:auto;">Play Inifnite Soccer online</div>  <div style="font-size:13px;color:gray;              max-width:160px;margin:2px auto 0;">Endless Runner Games</div></a><div style="margin-top:6px;">  <a href="https://play.gmg-studio.com/game/336/inifnite-soccer">    <img src="https://img.shields.io/badge/▶%20Play%20Inifnite%20Soccer%20in%20browser-Free%20Game-brightgreen?style=for-the-badge"          alt="Play Inifnite Soccer in browser">  </a></div></div>
-<div style="box-sizing:border-box;padding:8px;width:25.000000%;max-width:25.000000%;min-width:180px;text-align:center;"><a href="https://play.gmg-studio.com/game/393/icy-purple-head-3" style="text-decoration:none;color:inherit;">  <div style="display:inline-block;position:relative;">        <img src="https://yoo82.github.io/strategy-games/icy-head-3/logo.jpg" alt="Play Icy Purple Head 3 in browser"          width="160"          style="display:block;margin:0 auto;border-radius:8px;max-width:100%;height:auto;">  </div>  <div style="font-weight:700;margin-top:6px;              white-space:nowrap;overflow:hidden;text-overflow:ellipsis;              max-width:160px;margin-left:auto;margin-right:auto;">Play Icy Purple Head 3 in browser</div>  <div style="font-size:13px;color:gray;              max-width:160px;margin:2px auto 0;">Physics-Based Strategy Games</div></a><div style="margin-top:6px;">  <a href="https://play.gmg-studio.com/game/393/icy-purple-head-3">    <img src="https://img.shields.io/badge/▶%20Icy%20Purple%20Head%203%20–%20Free%20to%20Play-Free%20Game-brightgreen?style=for-the-badge"          alt="Icy Purple Head 3 – Free to Play">  </a></div></div>
-<div style="box-sizing:border-box;padding:8px;width:25.000000%;max-width:25.000000%;min-width:180px;text-align:center;"><a href="https://play.gmg-studio.com/game/360/dinosaurs-merge-master" style="text-decoration:none;color:inherit;">  <div style="display:inline-block;position:relative;">        <img src="https://yoo82.github.io/casual-games/dino-merge/thumb.jpg" alt="Play Dinosaurs Merge Master challenge"          width="160"          style="display:block;margin:0 auto;border-radius:8px;max-width:100%;height:auto;">  </div>  <div style="font-weight:700;margin-top:6px;              white-space:nowrap;overflow:hidden;text-overflow:ellipsis;              max-width:160px;margin-left:auto;margin-right:auto;">Play Dinosaurs Merge Master challenge</div>  <div style="font-size:13px;color:gray;              max-width:160px;margin:2px auto 0;">Merging Games</div></a><div style="margin-top:6px;">  <a href="https://play.gmg-studio.com/game/360/dinosaurs-merge-master">    <img src="https://img.shields.io/badge/▶%20Dinosaurs%20Merge%20Master%20–%20Free%20to%20Play-Free%20Game-brightgreen?style=for-the-badge"          alt="Dinosaurs Merge Master – Free to Play">  </a></div></div>
-<div style="box-sizing:border-box;padding:8px;width:25.000000%;max-width:25.000000%;min-width:180px;text-align:center;"><a href="https://play.gmg-studio.com/game/468/papas-pancakeria" style="text-decoration:none;color:inherit;">  <div style="display:inline-block;position:relative;">        <img src="https://yoo82.github.io/casual-games/papas-pancake/logo.jpg" alt="Play Papa's Pancakeria challenge"          width="160"          style="display:block;margin:0 auto;border-radius:8px;max-width:100%;height:auto;">  </div>  <div style="font-weight:700;margin-top:6px;              white-space:nowrap;overflow:hidden;text-overflow:ellipsis;              max-width:160px;margin-left:auto;margin-right:auto;">Play Papa's Pancakeria challenge</div>  <div style="font-size:13px;color:gray;              max-width:160px;margin:2px auto 0;">Management Games</div></a><div style="margin-top:6px;">  <a href="https://play.gmg-studio.com/game/468/papas-pancakeria">    <img src="https://img.shields.io/badge/▶%20Play%20Papa's%20Pancakeria%20challenge-Free%20Game-brightgreen?style=for-the-badge"          alt="Play Papa's Pancakeria challenge">  </a></div></div>
-<div style="box-sizing:border-box;padding:8px;width:25.000000%;max-width:25.000000%;min-width:180px;text-align:center;"><a href="https://play.gmg-studio.com/game/159/n-gon" style="text-decoration:none;color:inherit;">  <div style="display:inline-block;position:relative;">        <img src="https://yoo82.github.io/action-games/n-gon/bot.png" alt="Play n-gon challenge"          width="160"          style="display:block;margin:0 auto;border-radius:8px;max-width:100%;height:auto;">  </div>  <div style="font-weight:700;margin-top:6px;              white-space:nowrap;overflow:hidden;text-overflow:ellipsis;              max-width:160px;margin-left:auto;margin-right:auto;">Play n-gon challenge</div>  <div style="font-size:13px;color:gray;              max-width:160px;margin:2px auto 0;">Platformer Games</div></a><div style="margin-top:6px;">  <a href="https://play.gmg-studio.com/game/159/n-gon">    <img src="https://img.shields.io/badge/▶%20Enjoy%20n-gon%20now-Free%20Game-brightgreen?style=for-the-badge"          alt="Enjoy n-gon now">  </a></div></div>
-<div style="box-sizing:border-box;padding:8px;width:25.000000%;max-width:25.000000%;min-width:180px;text-align:center;"><a href="https://play.gmg-studio.com/game/423/rusher-crusher" style="text-decoration:none;color:inherit;">  <div style="display:inline-block;position:relative;">        <img src="https://yoo82.github.io/action-games/rusher-crusher/logo.jpg" alt="Play Rusher Crusher in browser"          width="160"          style="display:block;margin:0 auto;border-radius:8px;max-width:100%;height:auto;">  </div>  <div style="font-weight:700;margin-top:6px;              white-space:nowrap;overflow:hidden;text-overflow:ellipsis;              max-width:160px;margin-left:auto;margin-right:auto;">Play Rusher Crusher in browser</div>  <div style="font-size:13px;color:gray;              max-width:160px;margin:2px auto 0;">Action Games</div></a><div style="margin-top:6px;">  <a href="https://play.gmg-studio.com/game/423/rusher-crusher">    <img src="https://img.shields.io/badge/▶%20Play%20Rusher%20Crusher%20challenge-Free%20Game-brightgreen?style=for-the-badge"          alt="Play Rusher Crusher challenge">  </a></div></div>
-<div style="box-sizing:border-box;padding:8px;width:25.000000%;max-width:25.000000%;min-width:180px;text-align:center;"><a href="https://play.gmg-studio.com/game/196/sandboxels" style="text-decoration:none;color:inherit;">  <div style="display:inline-block;position:relative;">        <img src="https://yoo82.github.io/casual-games/sandboxels/sandboxels.jpg" alt="Free Sandboxels game"          width="160"          style="display:block;margin:0 auto;border-radius:8px;max-width:100%;height:auto;">  </div>  <div style="font-weight:700;margin-top:6px;              white-space:nowrap;overflow:hidden;text-overflow:ellipsis;              max-width:160px;margin-left:auto;margin-right:auto;">Free Sandboxels game</div>  <div style="font-size:13px;color:gray;              max-width:160px;margin:2px auto 0;">Relaxing Games</div></a><div style="margin-top:6px;">  <a href="https://play.gmg-studio.com/game/196/sandboxels">    <img src="https://img.shields.io/badge/▶%20Enjoy%20Sandboxels%20now-Free%20Game-brightgreen?style=for-the-badge"          alt="Enjoy Sandboxels now">  </a></div></div>
-<div style="box-sizing:border-box;padding:8px;width:25.000000%;max-width:25.000000%;min-width:180px;text-align:center;"><a href="https://play.gmg-studio.com/game/273/wolfenstein-3d" style="text-decoration:none;color:inherit;">  <div style="display:inline-block;position:relative;">        <img src="https://yoo82.github.io/action-games/wolf3d/art/wolf3d.png" alt="Play Wolfenstein 3D in browser"          width="160"          style="display:block;margin:0 auto;border-radius:8px;max-width:100%;height:auto;">  </div>  <div style="font-weight:700;margin-top:6px;              white-space:nowrap;overflow:hidden;text-overflow:ellipsis;              max-width:160px;margin-left:auto;margin-right:auto;">Play Wolfenstein 3D in browser</div>  <div style="font-size:13px;color:gray;              max-width:160px;margin:2px auto 0;">Shooting Games</div></a><div style="margin-top:6px;">  <a href="https://play.gmg-studio.com/game/273/wolfenstein-3d">    <img src="https://img.shields.io/badge/▶%20Wolfenstein%203D%20–%20Free%20to%20Play-Free%20Game-brightgreen?style=for-the-badge"          alt="Wolfenstein 3D – Free to Play">  </a></div></div>
-<div style="box-sizing:border-box;padding:8px;width:25.000000%;max-width:25.000000%;min-width:180px;text-align:center;"><a href="https://play.gmg-studio.com/game/140/mario" style="text-decoration:none;color:inherit;">  <div style="display:inline-block;position:relative;">        <img src="https://yoo82.github.io/action-games/mario/Theme/Mario.gif" alt="Mario"          width="160"          style="display:block;margin:0 auto;border-radius:8px;max-width:100%;height:auto;">  </div>  <div style="font-weight:700;margin-top:6px;              white-space:nowrap;overflow:hidden;text-overflow:ellipsis;              max-width:160px;margin-left:auto;margin-right:auto;">Mario</div>  <div style="font-size:13px;color:gray;              max-width:160px;margin:2px auto 0;">Platformer Games</div></a><div style="margin-top:6px;">  <a href="https://play.gmg-studio.com/game/140/mario">    <img src="https://img.shields.io/badge/▶%20Play%20Mario%20challenge-Free%20Game-brightgreen?style=for-the-badge"          alt="Play Mario challenge">  </a></div></div>
-</div>
+## Screenshots
+<img src="https://gamehtml5.netlify.app/gmg_goal_io/icon.jpg" alt="Try Goal.io free online gameplay screenshot 1" width="300">
 
-Read the latest updates on [GMG Blog](https://blog.gmg-studio.com)
+## FAQs
+**Question:** Is Goal.io free to play?
+
+**Ans:** Yes, Goal.io is completely free to play on both PC and browser. No downloads or sign-ups are required.
+
+**Asked:** Is Goal.io multiplayer?
+
+**Answer:** Currently Goal.io is single-player only, but you can compete via the global leaderboard.
+
+**Query:** What is Goal.io?
+
+**Reply:** Goal.io is a free PC and browser football io game where players have 180 seconds to score as many goals as possible. It combines fast reflex kicking with logic-based sports puzzle gameplay.
+
+**Q:** What makes Goal.io different from other soccer games?
+
+**Response:** Goal.io stands out by blending reflex-based goal shooting with a logic sports puzzle format, offering a fast-paced 3-minute match structure perfect for quick play sessions.
+
+**Ques:** Can I play Goal.io without downloading?
+
+**Response:** Yes, Goal.io is a browser-based game, so you can play instantly without installing anything.
+
+**Q:** How do you play Goal.io?
+
+**Response:** Simply tap or click to kick the ball into the goal. Use quick reactions and smart aim to outscore opponents before the timer runs out.
+
+**Q:** Can I play Goal.io on mobile?
+
+**A:** Yes! Goal.io works perfectly on mobile devices with touch controls.
+
+
+## More Games
+<table>
+<tr>
+<td align="center" width="240.0">
+          <a href="https://play.gmg-studio.com/game/2/1v1lol">
+            <img src="https://yoo82.github.io/action-games/1v1lol/splash.png" alt="Enjoy 1v1.LOL now" width="160"><br>
+            <b>🔥 HOT Enjoy 1v1.LOL now</b><br>
+            <sub>Shooter Games</sub>
+          </a><br>
+          <a href="https://play.gmg-studio.com/game/2/1v1lol">
+            <img src="https://img.shields.io/badge/▶%20Enjoy%201v1.LOL%20now-Free%20Game-brightgreen?style=for-the-badge" alt="Enjoy 1v1.LOL now">
+          </a>
+        </td>
+<td align="center" width="240.0">
+          <a href="https://play.gmg-studio.com/game/305/mario-bros">
+            <img src="https://yoo82.github.io/action-games/mario-bros/NewSuperMarioBros.png" alt="Free Mario Bros game" width="160"><br>
+            <b>Free Mario Bros game</b><br>
+            <sub>Platformer Games</sub>
+          </a><br>
+          <a href="https://play.gmg-studio.com/game/305/mario-bros">
+            <img src="https://img.shields.io/badge/▶%20Free%20Mario%20Bros%20game-Free%20Game-brightgreen?style=for-the-badge" alt="Free Mario Bros game">
+          </a>
+        </td>
+<td align="center" width="240.0">
+          <a href="https://play.gmg-studio.com/game/62/cubefield">
+            <img src="https://yoo82.github.io/action-games/cubefield/assets/unnamed.png" alt="Cubefield – Free to Play" width="160"><br>
+            <b>Cubefield – Free to Play</b><br>
+            <sub>Reaction Games</sub>
+          </a><br>
+          <a href="https://play.gmg-studio.com/game/62/cubefield">
+            <img src="https://img.shields.io/badge/▶%20Cubefield%20–%20Free%20to%20Play-Free%20Game-brightgreen?style=for-the-badge" alt="Cubefield – Free to Play">
+          </a>
+        </td>
+<td align="center" width="240.0">
+          <a href="https://play.gmg-studio.com/game/68/doctor-acorn-2">
+            <img src="https://yoo82.github.io/strategy-games/doctor-acorn2/splash.jpg" alt="Free Doctor Acorn 2 game" width="160"><br>
+            <b>Free Doctor Acorn 2 game</b><br>
+            <sub>Physics-Based Strategy Games</sub>
+          </a><br>
+          <a href="https://play.gmg-studio.com/game/68/doctor-acorn-2">
+            <img src="https://img.shields.io/badge/▶%20Free%20Doctor%20Acorn%202%20game-Free%20Game-brightgreen?style=for-the-badge" alt="Free Doctor Acorn 2 game">
+          </a>
+        </td>
+</tr>
+<tr>
+<td align="center" width="240.0">
+          <a href="https://play.gmg-studio.com/game/333/adam-and-eve-5-part-2">
+            <img src="https://yoo82.github.io/action-games/adam-eve-2/logo.jpg" alt="Play Adam and Eve 5 Part 2 online" width="160"><br>
+            <b>Play Adam and Eve 5 Part 2 online</b><br>
+            <sub>Point and Click Strategy Games</sub>
+          </a><br>
+          <a href="https://play.gmg-studio.com/game/333/adam-and-eve-5-part-2">
+            <img src="https://img.shields.io/badge/▶%20Play%20Adam%20and%20Eve%205%20Part%202%20online-Free%20Game-brightgreen?style=for-the-badge" alt="Play Adam and Eve 5 Part 2 online">
+          </a>
+        </td>
+<td align="center" width="240.0">
+          <a href="https://play.gmg-studio.com/game/150/minesweeper">
+            <img src="https://yoo82.github.io/strategy-games/minesweeper/img/minesweeper.png" alt="Play Minesweeper online" width="160"><br>
+            <b>Play Minesweeper online</b><br>
+            <sub>Puzzle Games</sub>
+          </a><br>
+          <a href="https://play.gmg-studio.com/game/150/minesweeper">
+            <img src="https://img.shields.io/badge/▶%20Play%20Minesweeper%20online-Free%20Game-brightgreen?style=for-the-badge" alt="Play Minesweeper online">
+          </a>
+        </td>
+<td align="center" width="240.0">
+          <a href="https://play.gmg-studio.com/game/189/riddle-school-5">
+            <img src="https://yoo82.github.io/strategy-games/riddleschool5/riddleschool5.png" alt="Free Riddle School 5 game" width="160"><br>
+            <b>Free Riddle School 5 game</b><br>
+            <sub>Escaping Games</sub>
+          </a><br>
+          <a href="https://play.gmg-studio.com/game/189/riddle-school-5">
+            <img src="https://img.shields.io/badge/▶%20Free%20Riddle%20School%205%20game-Free%20Game-brightgreen?style=for-the-badge" alt="Free Riddle School 5 game">
+          </a>
+        </td>
+<td align="center" width="240.0">
+          <a href="https://play.gmg-studio.com/game/294/basket-random">
+            <img src="https://yoo82.github.io/driving-games/basket-random/BasketRandom.png" alt="Play Basket Random in browser" width="160"><br>
+            <b>Play Basket Random in browser</b><br>
+            <sub>Sports Arcade Games</sub>
+          </a><br>
+          <a href="https://play.gmg-studio.com/game/294/basket-random">
+            <img src="https://img.shields.io/badge/▶%20Play%20Basket%20Random%20in%20browser-Free%20Game-brightgreen?style=for-the-badge" alt="Play Basket Random in browser">
+          </a>
+        </td>
+</tr>
+<tr>
+<td align="center" width="240.0">
+          <a href="https://play.gmg-studio.com/game/220/stack">
+            <img src="https://yoo82.github.io/action-games/stack/stack.png" alt="Free Stack game" width="160"><br>
+            <b>Free Stack game</b><br>
+            <sub>Timing Games</sub>
+          </a><br>
+          <a href="https://play.gmg-studio.com/game/220/stack">
+            <img src="https://img.shields.io/badge/▶%20Free%20Stack%20game-Free%20Game-brightgreen?style=for-the-badge" alt="Free Stack game">
+          </a>
+        </td>
+</tr>
+</table>
+
+Discover more fun at [Play more free online games](https://play.gmg-studio.com)
 
 ---
-> This GitHub repo only contains the static site for **Goal.io**.  
-> Distributed under the MIT License. More details in [LICENSE](./LICENSE).
+> Source code and GitHub Pages site for **Goal.io**.  
+> Licensed under MIT, check [LICENSE](./LICENSE) for more info.
